@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ssm代码/SchoolBook-master/SchoolBook.iml" filepath="$PROJECT_DIR$/../ssm代码/SchoolBook-master/SchoolBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping.iml" filepath="$PROJECT_DIR$/Shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm代码/ssm-shiro/shiro/auth-control-master/auth-control.iml" filepath="$PROJECT_DIR$/../ssm代码/ssm-shiro/shiro/auth-control-master/auth-control.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="auth-control:war">
+    <output-path>$PROJECT_DIR$/../ssm代码/ssm-shiro/shiro/auth-control-master/target</output-path>
+    <root id="archive" name="auth-control.war">
+      <element id="artifact" artifact-name="auth-control:war exploded" />
+    </root>
+  </artifact>
+</component>

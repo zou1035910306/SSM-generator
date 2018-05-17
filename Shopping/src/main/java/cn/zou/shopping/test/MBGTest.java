@@ -1,5 +1,6 @@
 package cn.zou.shopping.test;
 
+
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
 import org.mybatis.generator.config.xml.ConfigurationParser;
@@ -10,7 +11,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 钟超 on 2017/10/16.
+ * Created by 邹创基 on 2018/5/17 11:17
+ *
+ * @Description:
  */
 public class MBGTest {
     public static void main(String[] args) throws Exception{

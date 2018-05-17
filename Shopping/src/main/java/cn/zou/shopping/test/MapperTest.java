@@ -14,8 +14,8 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import java.util.UUID;
 
 /**
- * Created by 钟超 on 2017/10/16.
- * 测试dao层的工作
+ * Created by 邹创基 on 2018/5/17 10:51
+ * @Description: 测试dao层的工作
  * 推荐Spring的项目就可以使用Spring的单元测试类，可以自动注入需要我们需要的组件
  * 1.导入SpringTest模块
  * 2.@ContextConfiguration指定配置文件的位置

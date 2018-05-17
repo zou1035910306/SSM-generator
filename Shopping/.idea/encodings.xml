@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ssm代码/SchoolBook-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ssm代码/ssm-shiro/shiro/auth-control-master/src/main/java/com/test/controller/UserController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ssm代码/ssm-shiro/shiro/auth-control-master/src/main/java/com/test/service/UserService.java" charset="GBK" />
+  </component>
+</project>
